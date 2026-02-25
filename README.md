@@ -1,44 +1,57 @@
-# Empty old City – 羊飼いの号令
+# Empty old City – トワイライト・セレナーデ
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
 ```
-稲妻が走ったような衝撃で
-サイケに陥るクラスター
-私が放った一言は脳を制して
-司令部を担うわ
-Come and bite me
-最高のやつを頂戴
-匂いを味わって
-悲鳴をも飲み干して
-どこかでまた会えたら
-告白を待ってるわ
-白昼の教壇を仰いだ君の顔
-私から学んで喰い摂った
-愛を忘れないでね
-太陽の寿命より永い
-残酷な呪い
-優しく貪って
-痛いのは嫌だわ
-You'll fall on human's side
-You'll fall on human's side
-エニグマを謳った少女は
-その当時世紀の難題となった
-私が放った一言は脳に
-咲いて教典となるわ
-What did I give you?
-信仰とは違う情愛
-いつの時代だって
-人が人を造っている
-腐っても同じ命
-白昼の戦場に踊った君の顔
-果たしてその糸を辿ったら
-誰が惹いてるのかしらね
-教育の形を問わない
-残酷な呪い
-私を探してもとうに部屋にいないわ
-You'll fall on human's side
-You'll fall on human's side
-You'll fall on human's side
-You'll fall on human's side
+夜のはじまりを告げたのは
+あなたに預けたエメラルド
+ほんのひと時でも許されるなら
+それがまるで永遠のように
+噛み締めて
+二つの間に線を描くよ
+黄昏のセレナーデ
+今は何も言わないで
+濁って見えた世界でさえ
+この一瞬だけ透き通るみたい
+ああバラバラになっていく
+ああ形が変わっていく
+それは刹那的で
+憐情と愛情を
+一重に重ねて見せた
+Take me to your future, my love
+Let me drown in the wider spectrum
+巡り会えたら
+"Twilight Serenade" gives you my love
+In the silence we are facing philia
+茜の幻想
+消えた摩天楼
+Still I'm looking for some pieces of you
+In the darkness
+The longer darkness
+浮世じゃ誰も
+救われないよ
+こうしてきっと瞳を奪われる
+By the brightness
+Like to go somewhere that they promised to
+rendezvous
+誰も届かない one sweet sweet night
+優しく手を解いた
+黄昏のセレナーデ
+今は何も言わないで
+黙って観ていた星たちでさえ
+この一瞬だけ手を叩くみたい
+ああ正義を悔やんでいる
+ああ明日を欲張っている
+それは逆説的で
+メロウの心髄を
+見事に暴いてみせた
+Take me to your future, my love
+Let me drown in the wider spectrum
+巡り会えたら
+"Twilight Serenade" gives you my love
+In the silence we are facing philia
+夜のはじまりを告げたのは
+神の散りばめたエメラルド
+たった一つだけでも許されるなら
+未来の約束をしよう
 ```
