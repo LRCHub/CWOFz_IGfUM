@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "base_track": "羊飼いの号令",
+  "base_track": "トワイライト・セレナーデ",
   "base_artist": "Empty old City",
-  "createdAt": "2026-02-24T09:19:24.820390Z",
+  "createdAt": "2026-02-25T10:17:03.628425Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "羊飼いの号令",
+      "title": "トワイライト・セレナーデ",
       "artist": "Empty old City",
       "has_synced": false,
-      "path": "select/pl_01_羊飼いの号令_Empty_old_City.txt"
+      "path": "select/pl_01_トワイライト・セレナーデ_Empty_old_City.txt"
     }
   ]
 }
